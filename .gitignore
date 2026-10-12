@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datos y resultados del bot (no van al repositorio)
+*.wlk
+*.csv
+*.parquet
+procesado/
+logs/
+Estacion_Climatica/
+estado.json
+bot.lock
+*.log
+
+# Sistema y editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
