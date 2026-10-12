@@ -1,0 +1,3 @@
+pandas>=1.5
+numpy
+pyarrow   # opcional: solo si usas FORMATO = "parquet" o "ambos"
